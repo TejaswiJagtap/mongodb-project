@@ -23,5 +23,4 @@ public class EmailSetting {
 	private String host;
 
 	private String port;
-
 }
